@@ -15,7 +15,7 @@ class LoginController < ApplicationController
       #   render json:{errors: ["Hello Stranger! Please Sign up!"]}, status: :unprocessable_entity
 
       else 
-        byebug
+        
         nil 
       end 
       
